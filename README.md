@@ -92,7 +92,7 @@ r(y_test,pred)
 
 ## OUTPUT
 
-![image](https://user-images.githubusercontent.com/75235488/187116196-39713095-29c3-41e8-9006-c1f18f4e8264.png)
+![image](https://user-images.githubusercontent.com/69795479/187728976-aab09f04-276b-4689-a8ca-035fa4ef6a99.png)
 
 ### Test Data Root Mean Squared Error
 
