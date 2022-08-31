@@ -96,12 +96,12 @@ r(y_test,pred)
 
 ### Test Data Root Mean Squared Error
 
-![image](https://user-images.githubusercontent.com/69795479/187698744-4f1aa193-baa7-4894-aca1-167936ec837b.png)
+![image](https://user-images.githubusercontent.com/69795479/187754270-d88b16f7-7c04-404e-b755-cf6817e0e550.png)
 
 
 ### New Sample Data Prediction
 
-![image](https://user-images.githubusercontent.com/75235488/187116301-cd0ad317-a258-4379-a84d-89dfa6d761a7.png)
+![image](https://user-images.githubusercontent.com/69795479/187754374-985f3e99-737f-4c74-b782-05b852b37b97.png)
 
 ## RESULT
 A Basic neural network regression model for the given dataset is developed successfully.
