@@ -96,7 +96,7 @@ r(y_test,pred)
 
 ### Test Data Root Mean Squared Error
 
-![image](https://user-images.githubusercontent.com/75235488/187116341-efc4b30d-823a-40ce-ad11-2afadaf9676b.png)
+![image](https://user-images.githubusercontent.com/69795479/187698744-4f1aa193-baa7-4894-aca1-167936ec837b.png)
 
 
 ### New Sample Data Prediction
