@@ -59,8 +59,8 @@ df=pd.read_csv("data.csv")
 
 df.head()
 
-x=df[["input"]].values
-y=df[["output"]].values
+x=df[["X"]].values
+y=df[["Y"]].values
 
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=22)
 
